@@ -41,6 +41,11 @@ CSV 需要包含以下字段（MaxMind 原始格式）：
 
 ## 使用方式
 
+### 0) 获取脚本
+```bash
+wget https://raw.githubusercontent.com/413hy/ak/main/asn_classifier.py
+```
+
 ### 1) 使用默认输入文件名
 
 ```bash
