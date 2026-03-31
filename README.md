@@ -43,7 +43,7 @@ CSV 需要包含以下字段（MaxMind 原始格式）：
 
 ### 0) 获取脚本
 ```bash
-wget https://raw.githubusercontent.com/413hy/ak/main/asn_classifier.py
+wget https://raw.githubusercontent.com/413hy/ak/codex/clarify-your-main-objective/asn_classifier.py
 ```
 
 ### 1) 使用默认输入文件名
